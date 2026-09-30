@@ -111,7 +111,7 @@ This preprocessing work was developed for the graduation research project:
 🔗 [View the Research Repository](https://github.com/ShaimaNabeel/llm-verbal-analogical-reasoning)
 
 ---
-ر## ⚠️ Limitation & Reproducibility Note
+## ⚠️ Limitation & Reproducibility Note
 
 The original preprocessing script uses random sampling and shuffling when selecting distractors and arranging the final answer choices.
 
@@ -142,6 +142,9 @@ This repository contains the preprocessing code developed for the research proje
 ---
 
 ## 👩‍💻 Preprocessing Script by
+
+**Shaima Albokhari**  
+B.Sc. Computer Science — Taif University
 
 **Shaima Albokhari**  
 B.Sc. Computer Science — Taif University
