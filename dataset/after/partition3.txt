@@ -1,0 +1,2219 @@
+projectile air
+gravity attracts
+orbit attracts
+projectile air
+planet space
+d
+
+write turned_off
+memorize asleep
+muscles input
+awake consciousness
+remember input
+a
+
+repair CPU
+memorize brain
+forgetting brain
+therapy consciousness
+senses input
+c
+
+artificial_selection breeds
+natural_selection wild
+adaptation natural
+adaptation fitness
+natural_selection species
+d
+
+pressure hydrodynamics
+kettle cooling
+heat_transfer thermodynamics
+heat_transfer cooling
+temperature thermodynamics
+d
+
+trajectory gravity
+orbit gravity
+trajectory gravity
+planet sun
+orbit sun
+a
+
+turned_on broken
+awake confused
+muscles intelligence
+thinking memory
+remember asleep
+a
+
+artificial_selection breeding
+natural_selection mating
+competition adaptation
+natural_selection natural
+natural_selection species
+a
+
+outputs inputs
+mistake therapy
+forgetting function
+brain consciousness
+muscles senses
+d
+
+processing broken
+intelligence therapy
+senses consciousness
+thinking confused
+awake therapy
+c
+
+waves water
+sounds air
+sounds loud
+wall insulation
+echoes vibrating
+a
+
+projectile trajectory
+planet orbit
+planet sun
+orbit attracts
+planet attracts
+a
+
+intense carbon_dioxide
+animal vigorous
+vigorous carbon_dioxide
+respiration animal
+respiration food
+b
+
+erasing data
+memory brain
+intelligence input
+forgetting input
+forgetting therapy
+c
+
+bug broken
+mistake confused
+thinking function
+mind forgetting
+thinking intelligence
+a
+
+read turned_off
+remember memory
+memorize brain
+remember asleep
+mind input
+c
+
+read hardware
+memory confused
+memory consciousness
+thinking memorize
+remember brain
+d
+
+echoes loud
+light lens
+red reflects
+red bright
+reflects bright
+d
+
+repair software
+therapy function
+mistake input
+awake brain
+forgetting memory
+a
+
+memory outputs
+forgetting memory
+memory muscles
+senses function
+brain function
+b
+
+bug power
+remember muscles
+mistake intelligence
+bug power
+muscles intelligence
+b
+
+slot_machine winning
+bacterial_mutation bacteria
+bacteria reproducing
+bacterial_mutation mutating
+bacterial_mutation reproducing
+d
+
+planet attracts
+electron attracts
+planet attracts
+electron charge
+atom revolves
+a
+
+combustion oxygen
+living carbon_dioxide
+animal living
+respiration oxygen
+respiration carbon_dioxide
+c
+
+inputs software
+forgetting muscles
+senses confused
+senses function
+remember brain
+c
+
+infection eradication
+replication removal
+code antivirus
+installation removal
+removal antivirus
+c
+
+infection vaccine
+installation antivirus
+replication antivirus
+installation removal
+replication installation
+a
+
+read memory
+remember memory
+memorize asleep
+thinking memorize
+mistake brain
+a
+
+hot oxygen
+living oxygen
+respiration animal
+animal carbon_dioxide
+vigorous carbon_dioxide
+a
+
+burning intense
+food carbon_dioxide
+breathing vigorous
+respiration oxygen
+living carbon_dioxide
+b
+
+sun revolves
+electron electromagnetism
+atom nucleus
+nucleus revolves
+atom attracts
+c
+
+solar_system planet
+nucleus charge
+electron electromagnetism
+atom electron
+atom charge
+c
+
+echoes quiet
+bright dim
+violet dim
+light dim
+reflects dim
+d
+
+water_flow hydrodynamics
+temperature burner
+transfers thermodynamics
+heat_transfer thermodynamics
+transfers kettle
+c
+
+erasing memory
+forgetting memory
+intelligence function
+thinking input
+remember asleep
+a
+
+power hardware
+intelligence brain
+muscles senses
+senses input
+function consciousness
+a
+
+outputs data
+consciousness input
+memory muscles
+muscles input
+remember awake
+c
+
+planet revolves
+electron revolves
+nucleus charge
+atom electron
+electron attracts
+a
+
+outputs software
+consciousness input
+awake consciousness
+muscles function
+intelligence input
+c
+
+turned_on data
+memorize mistake
+awake input
+senses mistake
+thinking muscles
+b
+
+burning hot
+living oxygen
+animal breathing
+breathing living
+animal carbon_dioxide
+c
+
+power CPU
+intelligence consciousness
+muscles input
+confused function
+thinking memory
+a
+
+sound echoes
+light reflects
+light violet
+bright lens
+reflects dim
+a
+
+virus vaccine
+code antivirus
+replication removal
+installation antivirus
+code installation
+a
+
+combustion intense
+respiration carbon_dioxide
+respiration vigorous
+animal food
+living vigorous
+b
+
+read outputs
+muscles mistake
+intelligence input
+muscles senses
+remember muscles
+d
+
+rough crashing
+sounds loud
+loud vibrating
+echoes vibrating
+air quiet
+b
+
+winning losing
+mutating reproducing
+reproducing dying
+bacteria genes
+winning losing
+b
+
+sound quiet
+light reflects
+light lens
+violet reflects
+light dim
+d
+
+sun planet
+atom electromagnetism
+nucleus electron
+atom revolves
+atom electron
+b
+
+turned_off repair
+memorize confused
+memory mistake
+asleep therapy
+forgetting brain
+c
+
+inputs hardware
+muscles confused
+senses brain
+thinking remember
+mind forgetting
+b
+
+turned_on hardware
+awake brain
+mistake therapy
+muscles brain
+asleep brain
+a
+
+mass attracts
+nucleus revolves
+electron attracts
+charge attracts
+atom electromagnetism
+c
+
+processing software
+asleep input
+forgetting muscles
+mind therapy
+thinking function
+d
+
+breeds selection
+natural_selection fitness
+species competition
+natural_selection species
+species adaptation
+b
+
+revolves gravity
+attracts revolves
+charge attracts
+nucleus revolves
+revolves electromagnetism
+d
+
+broken power
+forgetting mistake
+confused intelligence
+intelligence input
+mind senses
+b
+
+reproduction infection
+replication antivirus
+installation removal
+replication installation
+code antivirus
+c
+
+mass revolves
+mass revolves
+charge revolves
+atom electromagnetism
+electron electromagnetism
+b
+
+hot intense
+breathing carbon_dioxide
+breathing oxygen
+living vigorous
+respiration living
+c
+
+breeding domesticated
+mating wild
+natural_selection adaptation
+adaptation wild
+natural_selection competition
+a
+
+breeds conformance
+competition fitness
+species wild
+adaptation natural
+species adaptation
+d
+
+turned_off data
+asleep input
+intelligence consciousness
+forgetting mistake
+awake intelligence
+a
+
+wooing audience
+public campaigning
+campaigning corruption
+campaigning people
+election parliament
+c
+
+outflow source
+investing loss
+loss bank
+trade loss
+loss salary
+d
+
+weapon battleground
+loss win
+debater loss
+logic topic
+debater win
+c
+
+actor act
+history event
+person surroundings
+event fate
+person event
+d
+
+path follower
+argument listener
+understanding digresses
+listener confusion
+understand confusion
+a
+
+digestion appetite
+analyze trivial
+irrelevance learning
+comprehension curiosity
+creativity learning
+c
+
+field general
+business client
+client employee
+market income
+market ceo
+d
+
+feeding appetite
+analyze interestingness
+understand interestingness
+idea interestingness
+teaching curiosity
+d
+
+diagnosis patient
+crime society
+sentence society
+jail poverty
+spree criminal
+b
+
+war general
+sport coach
+match field
+coach match
+sportsman ball
+a
+
+food satiation
+recognition competition
+competition failure
+ambition recognition
+recognition achievement
+d
+
+soldier surrender
+refute rhetoric
+debater loss
+argument logic
+logic criticize
+b
+
+buying_an_item buyer
+believer accepting
+belief rejecting
+accepting_a_belief believer
+believer true
+c
+
+suitor wooing
+parliament campaign
+incumbent campaigning
+law press
+parliament money
+b
+
+soldier battleground
+debater criticize
+argument criticizes
+debater topic
+argument retraction
+c
+
+child rule
+state nation
+citizen law
+law nation
+state citizen
+b
+
+virus diagnosis
+information prison
+victim spread
+criminal sentence
+spree poverty
+c
+
+heavy digestion
+important irrelevance
+important comprehension
+comprehension creativity
+understand curiosity
+b
+
+bloom water
+laboratory idea
+innovation funding
+research conference
+laboratory conference
+b
+
+war weapon
+sport ball
+sport team
+team field
+match ball
+a
+
+player ball
+challenger campaign
+public campaign
+politician press
+challenger campaigning
+c
+
+war frontline
+sport coach
+sport field
+team coach
+team match
+b
+
+courtship rules
+president corruption
+politics law
+politician campaign
+public challenger
+b
+
+enemy victory
+illness health
+illness stage
+death virus
+disease health
+d
+
+impediments_to_travel travelling
+person problem_solving
+plan person
+impediments_to_travel travelling
+difficulties problem_solving
+d
+
+stage actors
+person history
+world people
+event fate
+world fate
+b
+
+leader view
+listener confusion
+understand digresses
+speaker interpretation
+digresses explaining
+c
+
+slaughter herd
+pope atonement
+faith congregation
+atonement congregation
+slaughter herd
+c
+
+eating appetite
+theory originality
+trivial teaching
+understanding curiosity
+creativity curiosity
+c
+
+food home
+law government
+state subsidies
+subsidies nation
+state law
+c
+
+merchandise valuable
+merchandise valuable
+rejecting false
+belief true
+belief advocating
+c
+
+toy operator
+election press
+campaigning citizen
+citizen president
+election campaign
+c
+
+soldier ground
+opponent opinion
+debate opponent
+debate convincing
+opponent convincing
+a
+
+leader path
+listener confusion
+speaker argument
+speaker listener
+understanding complicated
+b
+
+follower darkness
+knowledge secret
+listener confusion
+confusion interpretation
+explaining confusion
+b
+
+cell organ
+society organisation
+class budget
+organisation history
+person organisation
+d
+
+battle victory
+illness virus
+illness health
+medicine course
+course stage
+b
+
+station landscape
+exam skill
+skill teacher
+class professor
+class knowledge
+d
+
+captain passenger
+citizen aid
+president citizen
+problem outlook
+citizen outlook
+b
+
+disobedience punishment
+citizen aid
+problem aid
+crime imprisonment
+outlook imprisonment
+c
+
+player audience
+politician people
+public people
+challenger corruption
+parliament citizen
+a
+
+attacks weapon
+criticize loss
+refute retraction
+criticizes logic
+argument loss
+c
+
+block framework
+block framework
+conjecture concept
+data concept
+concept proposition
+d
+
+progress obstacle
+improvement difficulty
+relationship happiness
+happiness improvement
+love commitment
+a
+
+slay weapon
+idea find
+find instrument
+idea researcher
+laboratory researcher
+b
+
+vehicle destination
+vehicle destination
+knowledge teacher
+lecture skill
+knowledge examiner
+c
+
+destination arriving
+goal person
+goal succeeding
+destination arriving
+goal plan
+b
+
+scarcity starvation
+ambition failure
+achievement failure
+ambition recognition
+competition failure
+d
+
+route arriving
+partner succeeding
+plan succeeding
+goal partner
+route arriving
+b
+
+vehicle fuel
+virus infection
+virus diagnosis
+medicine virus
+death stage
+a
+
+maneuver retreat
+arguing rhetoric
+argument claim
+rhetoric retraction
+criticizes topic
+c
+
+hunger satiation
+ambition achievement
+recognition failure
+achievement failure
+recognition competition
+a
+
+baggage traveller
+experience colleague
+career failure
+success colleague
+worker experience
+a
+
+destination route
+goal plan
+difficulties plan
+problem_solving succeeding
+plan succeeding
+a
+
+husbandry herd
+follower atonement
+pope omniscience
+faith follower
+faith congregation
+d
+
+race speed
+competitor success
+competitor failure
+market success
+competition success
+d
+
+courtship woman
+campaign money
+politics public
+politics campaigning
+politics incumbent
+b
+
+hospital medicine
+subsidy money
+state subsidy
+poverty money
+citizen state
+b
+
+fruitful grow
+productive develop
+fail succeed
+ideas fail
+ideas inspired
+a
+
+soldier weapon
+debate opponent
+opinion topic
+soldier weapon
+opponent argument
+d
+
+woman operator
+campaigning people
+public president
+election citizen
+law president
+b
+
+journey stop
+exam lecture
+education exam
+class professor
+knowledge professor
+b
+
+precursor assessment
+poverty trial
+crime victim
+criminal trial
+execution education
+a
+
+buying_an_item valuable
+accepting_a_belief false
+accepting_a_belief believer
+accepting_a_belief true
+belief rejecting
+c
+
+cage quarantine
+trial prison
+investigation criminal
+spread education
+jail prison
+d
+
+heavy appetite
+important creativity
+important curiosity
+analyze understanding
+originality irrelevance
+b
+
+vehicle fuel
+exam student
+student examiner
+lecture student
+lecture scholarship
+d
+
+pouring sea
+transfer salary
+transfer capital
+investing wealth
+income loss
+c
+
+war fighting
+argument arguing
+logic retraction
+arguing retraction
+criticizes logic
+a
+
+crew children
+problem aid
+citizen problem
+congress public_
+outlook public_
+c
+
+fruitful fruit
+productive fail
+ideas product
+ideas fail
+productive product
+d
+
+coach driver
+organisation history
+people passport
+class leader
+person leader
+c
+
+guide car
+work boss
+failure boss
+boss office
+worker office
+c
+
+object flavor
+understand important
+teaching creativity
+idea interestingness
+understand comprehension
+c
+
+leader darkness
+complicated confusion
+misunderstood digresses
+understand digresses
+speaker confusion
+d
+
+epidemic virus
+investigation society
+sentence society
+arrest jail
+spread criminal
+d
+
+twisted darkness
+argument simple
+explaining secret
+complicated confusion
+understand simple
+c
+
+battle weapon
+team ball
+sport field
+match ball
+match sportsman
+c
+
+container pool
+bank capital
+person transfer
+income capital
+investing transfer
+a
+
+food freshness
+theory originality
+theory irrelevance
+creativity curiosity
+teaching creativity
+a
+
+ship passenger
+congress problem
+nation citizen
+outlook law
+nation president
+b
+
+courtship suitor
+people crisis
+politician people
+politics incumbent
+crisis corruption
+c
+
+actors role
+life history
+people fate
+world surroundings
+life people
+b
+
+weigh heavy
+curiosity irrelevance
+trivial provocation
+analyze important
+curiosity originality
+c
+
+journey conductor
+class student
+education lecture
+knowledge examiner
+education examiner
+d
+
+vehicle path
+virus course
+diagnosis infection
+illness virus
+death infection
+a
+
+traveller arriving
+difficulties goal
+goal person
+traveller arriving
+person succeeding
+d
+
+flow source
+investing salary
+transfer salary
+investing bank
+trade investing
+b
+
+battle frontline
+sportsman field
+match field
+sportsman ball
+team sportsman
+b
+
+toy audience
+public people
+challenger corruption
+citizen people
+public politician
+c
+
+traveler goods
+improvement difficulty
+lover attributes
+improvement person
+happiness improvement
+b
+
+lost view
+digresses explaining
+simple explaining
+misunderstood interpretation
+misunderstood explaining
+c
+
+playground toy
+public campaigning
+politics money
+parliament citizen
+law campaign
+c
+
+mountain ascent
+work education
+education office
+career success
+success office
+c
+
+object feeding
+analyze comprehension
+interestingness learning
+important comprehension
+idea teaching
+d
+
+station destination
+class skill
+lecture student
+skill student
+class scholarship
+a
+
+destination traveller
+teacher scholarship
+education skill
+skill student
+student scholarship
+c
+
+stop conductor
+teacher scholarship
+exam knowledge
+exam examiner
+professor scholarship
+c
+
+destination driver
+education skill
+lecture knowledge
+exam student
+skill professor
+d
+
+source pool
+person bank
+bank wealth
+salary capital
+money income
+c
+
+solid crack
+reasons confirming
+rational flaw
+dubious flaw
+reasons_for_a_theory dubious
+b
+
+construction block
+relation concept
+theory concept
+conjecture concept
+construction block
+c
+
+following leader
+argument listener
+misunderstood complicated
+understanding speaker
+listener digresses
+c
+
+performance operator
+campaign president
+campaigning parliament
+election parliament
+campaigning law
+a
+
+journey driver
+lecture professor
+education knowledge
+professor examiner
+education professor
+d
+
+suitor woman
+politics corruption
+law crisis
+parliament people
+incumbent public
+d
+
+owner acquisition
+skill learning
+owner acquisition
+person learning
+skill person
+c
+
+soldier frontline
+match sportsman
+field ball
+sportsman field
+match field
+c
+
+precursor diagnosis
+poverty sentence
+arrest criminal
+victim spree
+jail spree
+a
+
+shipwreck storm
+marriage divorce
+divorce quarrel
+spouse quarrel
+spouse divorce
+b
+
+grounds_for_a_building buildings
+theories flaw
+reasons_for_a_theory dubious
+confirming dubious
+reasons_for_a_theory theories
+d
+
+journey destination
+knowledge skill
+education skill
+student scholarship
+scholarship examiner
+b
+
+oil rust
+politics politician
+money corruption
+citizen crisis
+politics crisis
+b
+
+possession owner
+skill person
+person learning
+possession owner
+skill learning
+a
+
+mountain baggage
+job worker
+failure office
+career experience
+worker colleague
+c
+
+medicine cure
+poverty money
+politician citizen
+subsidy money
+citizen state
+c
+
+hunter weapon
+client employee
+ceo company
+business market
+businessman product
+d
+
+food flavor
+theory interestingness
+comprehension creativity
+curiosity interestingness
+curiosity originality
+a
+
+stem planting
+research experiment
+funding laboratory
+idea conference
+innovation funding
+a
+
+rival operator
+law people
+challenger president
+election president
+law crisis
+b
+
+weapon vehicle
+disease course
+medicine virus
+illness medicine
+death virus
+b
+
+fighting surrender
+topic claim
+topic win
+arguing criticizes
+arguing loss
+d
+
+object eating
+idea understanding
+trivial curiosity
+analyze interestingness
+comprehension originality
+a
+
+illuminating hidden
+explaining secret
+understand interpretation
+complicated knowledge
+simple confusion
+a
+
+weapon station
+medicine diagnosis
+illness diagnosis
+illness medicine
+patient infection
+a
+
+impediments_to_travel arriving
+goal problem_solving
+difficulties partner
+difficulties succeeding
+difficulties problem_solving
+c
+
+precursor surgery
+poverty punishment
+poverty criminal
+poverty sentence
+poverty society
+a
+
+follow follower
+understand listener
+speaker interpretation
+understand secret
+knowledge interpretation
+a
+
+weigh food
+analyze theory
+curiosity irrelevance
+trivial comprehension
+understanding irrelevance
+a
+
+journey obstacle
+love happiness
+relationship improvement
+love person
+love difficulty
+d
+
+fighting attack
+arguing criticize
+arguing rhetoric
+argument debater
+topic retraction
+a
+
+family father
+state president
+state government
+law government
+state nation
+a
+
+appetite nutrition
+important understanding
+analyze originality
+idea theory
+curiosity learning
+d
+
+rules operator
+law president
+public corruption
+public parliament
+election people
+a
+
+follow lost
+listener secret
+understand misunderstood
+simple explaining
+simple secret
+b
+
+herder slaughter
+follower congregation
+faith atonement
+pope atonement
+pope congregation
+c
+
+object weigh
+comprehension creativity
+idea analyze
+idea understand
+trivial teaching
+b
+
+attack maneuver
+criticizes claim
+topic retraction
+claim criticize
+criticize rhetoric
+d
+
+soldier defeat
+debater acceptance
+arguing win
+refute loss
+claim rhetoric
+a
+
+slay hunter
+idea instrument
+laboratory researcher
+research find
+find researcher
+d
+
+enemy path
+death virus
+virus infection
+disease course
+illness patient
+c
+
+battle ground
+debate opinion
+opinion argument
+opponent topic
+opponent argument
+a
+
+lost hidden
+explaining interpretation
+confusion secret
+misunderstood secret
+simple confusion
+c
+
+crew passenger
+congress citizen
+nation crime
+nation law
+law public_
+a
+
+army frontline
+team field
+team sportsman
+sportsman ball
+match ball
+a
+
+husbandry herder
+faith pope
+follower atonement
+faith atonement
+faith omniscience
+a
+
+hunt trophy
+business income
+client income
+business client
+businessman product
+a
+
+prey hunt
+investigation punishment
+crime criminal
+prison sentence
+victim investigation
+d
+
+fuel traveller
+education colleague
+success boss
+success work
+career work
+a
+
+framework architect
+relation proposition
+proposition scientist
+theory conjecture
+relation concept
+b
+
+destroy position
+argument win
+criticizes logic
+refute claim
+logic criticize
+c
+
+mountain descent
+boss colleague
+boss retirement
+success office
+career failure
+d
+
+goods terms
+love stage
+relationship difficulty
+lover commitment
+attributes commitment
+d
+
+racer track
+competitor market
+competition competitor
+competitor success
+competitor failure
+a
+
+weapon attack
+logic criticize
+argument retraction
+refute criticizes
+refute topic
+a
+
+war weapon
+logic loss
+argument topic
+argument logic
+topic loss
+c
+
+soldier battlefield
+opponent opinion
+opponent topic
+opinion argument
+soldier battlefield
+b
+
+epidemic quarantine
+execution prison
+crime arrest
+jail spree
+spread prison
+d
+
+playground ball
+politics law
+parliament press
+crisis corruption
+politician press
+b
+
+wooing bet
+election campaign
+incumbent campaigning
+press crisis
+campaigning election
+d
+
+feeding staleness
+idea important
+understand learning
+teaching originality
+teaching irrelevance
+d
+
+straight view
+digresses explaining
+simple interpretation
+argument knowledge
+digresses confusion
+b
+
+prevention virus
+education criminal
+arrest sentence
+crime prison
+sentence society
+a
+
+mountain climb
+worker colleague
+career work
+failure experience
+job worker
+b
+
+passenger ticket
+passport future
+communication citizen
+person leader
+citizen passport
+d
+
+cooking nutrition
+creativity provocation
+trivial curiosity
+creativity learning
+irrelevance provocation
+c
+
+outbreak quarantine
+arrest criminal
+jail poverty
+spree prison
+trial society
+c
+
+follow wanders
+listener complicated
+understand secret
+speaker knowledge
+understand digresses
+d
+
+sea source
+person wealth
+wealth capital
+investing wealth
+wealth salary
+d
+
+boat passenger
+divorce home
+marriage home
+marriage happiness
+marriage spouse
+d
+
+leader light
+speaker knowledge
+complicated interpretation
+speaker misunderstood
+understand confusion
+a
+
+assessment surgery
+execution spread
+trial punishment
+information sentence
+jail spread
+b
+
+weapon tactic
+opinion convincing
+topic convincing
+argument argumentation
+opinion topic
+c
+
+building architect
+conjecture concept
+conjecture proposition
+concept scientist
+theory scientist
+d
+
+cell route
+society leader
+cell route
+person communication
+person history
+d
+
+retreat surrender
+rhetoric retraction
+retraction loss
+rhetoric win
+criticizes rhetoric
+b
+
+climber destination
+career failure
+education office
+worker retirement
+career education
+c
+
+prey inoculation
+arrest investigation
+victim information
+arrest education
+spread prison
+b
+
+enemy surrender
+patient health
+stage infection
+disease health
+disease death
+d
+
+construction architect
+conjecture relation
+conjecture scientist
+theory concept
+data relation
+b
+
+courtship bet
+public challenger
+politics election
+parliament crisis
+campaign crisis
+b
+
+battle tactic
+opponent argumentation
+opponent topic
+debate argumentation
+debate topic
+c
+
+battle weapon
+debate argument
+argument topic
+topic convincing
+battle weapon
+a
+
+defeat position
+refute arguing
+argument retraction
+acceptance claim
+argument win
+c
+
+prey killing
+victim execution
+arrest investigation
+investigation sentence
+education criminal
+a
+
+outbreak virus
+poverty prison
+sentence punishment
+spree criminal
+spree trial
+c
+
+woman audience
+challenger campaign
+public president
+public people
+incumbent law
+c
+
+actor script
+fate surroundings
+person history
+people surroundings
+life event
+b
+
+straight darkness
+understanding secret
+speaker knowledge
+simple confusion
+speaker confusion
+c
+
+racer speed
+competition competitor
+competitor success
+competitor market
+competitor failure
+b
+
+capture quarantine
+arrest prison
+spread sentence
+spread information
+arrest trial
+a
+
+light feeding
+important theory
+theory creativity
+understand theory
+trivial teaching
+d
+
+soldier weapon
+team field
+sport field
+sportsman ball
+team match
+c
+
+food starvation
+food starvation
+recognition failure
+achievement failure
+ambition recognition
+b
+
+weapon victory
+criticizes logic
+logic win
+argument topic
+criticizes win
+b
+
+boat rock
+happiness affair
+marriage affair
+marriage spouse
+spouse argument
+b
+
+organ vein
+citizen class
+organisation communication
+organisation people
+society future
+b
+
+child home
+citizen nation
+president citizen
+law subsidies
+citizen subsidies
+a
+
+soil planting
+experiment collaboration
+laboratory experiment
+research conference
+laboratory collaboration
+b
+
+station vehicle
+teacher scholarship
+exam teacher
+exam scholarship
+class lecture
+d
+
+traveller travelling
+person problem_solving
+goal partner
+plan person
+problem_solving succeeding
+a
+
+woman performance
+public campaign
+citizen crisis
+incumbent president
+citizen campaign
+a
+
+actor role
+person fate
+life event
+people fate
+life surroundings
+a
+
+fighting battleground
+acceptance topic
+criticize retraction
+topic criticize
+arguing topic
+d
+
+destroy fighting
+topic win
+refute arguing
+retraction win
+destroy fighting
+b
+
+satiation scarcity
+ambition competition
+ambition achievement
+ambition failure
+achievement competition
+d
+
+hunt prey
+laboratory instrument
+hunt prey
+research idea
+research instrument
+c
+
+lost light
+argument listener
+complicated simple
+misunderstood knowledge
+digresses explaining
+c
+
+ascent climber
+success worker
+work education
+success education
+boss funding
+a
+
+fighting maneuver
+acceptance logic
+arguing rhetoric
+criticize retraction
+criticizes rhetoric
+b
+
+wanders straight
+speaker explaining
+speaker knowledge
+digresses simple
+understand interpretation
+c
+
+pouring pool
+investing capital
+income loss
+pouring pool
+trade transfer
+a
+
+ground battlefield
+opinion topic
+opponent topic
+debate topic
+argument topic
+a
+
+hold food
+analyze creativity
+important curiosity
+analyze interestingness
+understand theory
+d
+
+soldier weapon
+criticize retraction
+argument claim
+argument rhetoric
+debater logic
+d
+
+bet operator
+election president
+politics law
+parliament campaign
+parliament corruption
+a
+
+warrior weapon
+patient course
+death diagnosis
+patient medicine
+virus course
+c
+
+wanders darkness
+argument misunderstood
+argument digresses
+speaker misunderstood
+digresses confusion
+d
+
+sea pool
+bank capital
+income capital
+wealth capital
+person trade
+c
+
+object nutrition
+idea learning
+teaching irrelevance
+theory provocation
+creativity provocation
+a
+
+wooing rules
+campaigning law
+campaigning crisis
+campaign president
+crisis corruption
+a
+
+vehicle guide
+education teacher
+professor scholarship
+lecture teacher
+knowledge teacher
+c
+
+heavy flavor
+important interestingness
+theory provocation
+idea important
+teaching provocation
+a
+
+grounds_for_a_building foundations
+theories confirming
+confirming dubious
+reasons_for_a_theory theories
+reasons_for_a_theory reasons
+d
+
+soil greenhouse
+funding conference
+innovation funding
+laboratory conference
+research laboratory
+c
+
+sheep herd
+follower omniscience
+atonement congregation
+pope congregation
+follower congregation
+d
+
+wooing player
+challenger election
+campaigning politician
+law corruption
+parliament crisis
+b
+
+guide conductor
+lecture scholarship
+class skill
+exam student
+teacher examiner
+d
+
+suitor rival
+politician corruption
+politician parliament
+challenger press
+incumbent challenger
+d
+
+rival performance
+challenger campaign
+politician law
+politician press
+incumbent politician
+a
+
+fighting attacks
+criticize rhetoric
+logic criticize
+arguing criticizes
+criticize retraction
+c
+
+inoculation virus
+crime society
+information criminal
+execution criminal
+investigation sentence
+b
+
+army battle
+team field
+coach field
+team sportsman
+team match
+d
+
+script role
+person fate
+history fate
+fate surroundings
+people history
+b
+
+soldier position
+argument logic
+arguing criticize
+rhetoric win
+debater claim
+d
+
+climber traveller
+career work
+worker colleague
+career experience
+job funding
+b
+
+soldier general
+businessman product
+client businessman
+employee ceo
+client company
+c
+
+soldier victory
+retraction loss
+debater win
+criticize rhetoric
+topic criticize
+b
+
+general battle
+match ball
+coach match
+match field
+team field
+b
+
+milestone obstacle
+person attributes
+difficulty person
+love attributes
+stage difficulty
+d
+
+player bet
+public campaigning
+parliament president
+politician election
+incumbent parliament
+c
+
+rule parent
+law government
+state citizen
+government nation
+president government
+a
+
+weapon source
+money salary
+trade investing
+money income
+money wealth
+a
+
+container source
+transfer capital
+money trade
+person salary
+bank salary
+d
+
+path light
+understand speaker
+argument knowledge
+understand knowledge
+knowledge explaining
+b
+
+maneuver surrender
+argument debater
+rhetoric loss
+arguing topic
+criticizes rhetoric
+b
+
+war soldier
+refute topic
+acceptance loss
+logic topic
+argument debater
+d
+
+buyer terms
+happiness attributes
+relationship commitment
+person commitment
+relationship happiness
+c
+
+cell fuel
+society person
+society budget
+history passport
+person budget
+d
+
+building construction
+data proposition
+conjecture proposition
+conjecture scientist
+theory conjecture
+d
+
+buying_an_item selling
+believer belief
+accepting_a_belief advocating
+accepting rejecting
+true false
+b
+
+driver destination
+society future
+leader future
+future budget
+class leader
+b
+
+follower light
+digresses knowledge
+misunderstood complicated
+listener complicated
+listener knowledge
+d
+
