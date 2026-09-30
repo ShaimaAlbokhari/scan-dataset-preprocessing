@@ -110,23 +110,6 @@ This preprocessing work was developed for the graduation research project:
 
 🔗 [View the Research Repository](https://github.com/ShaimaNabeel/llm-verbal-analogical-reasoning)
 
-## ⚠️ Limitation & Reproducibility Note
-
-The original preprocessing script uses random sampling and shuffling when selecting distractors and arranging the final answer choices.
-
-Because a fixed random seed was not used during the original preprocessing, running the script multiple times may produce different distractor selections and answer-choice orders.
-
-This does not change the purpose of the preprocessing pipeline, but it limits exact reproducibility of the generated dataset.
-
-### Suggested Improvement
-
-For future use, a fixed random seed can be added after importing the `random` module:
-
-```python
-import random
-
-random.seed(42)
-
 ---
 
 ## 📌 Dataset Availability
