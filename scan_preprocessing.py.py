@@ -18,7 +18,7 @@ import random
 # --------------------------------------------------
 
 INPUT_FILE = "scan_partition1.txt"
-OUTPUT_FILE = "editScan_1.txt"
+OUTPUT_FILE = "partition1.txt"
 
 
 # --------------------------------------------------
